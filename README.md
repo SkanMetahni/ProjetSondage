@@ -25,9 +25,9 @@ Pour exécuter ce projet localement sur votre machine :
 
 📝 Structure technique du projet
 Le projet repose sur un script unique de plus de 3600 lignes, structuré comme suit :
-UI (User Interface) : Une interface moderne basée sur shinydashboard avec des menus intuitifs.
-Server : Une logique backend robuste gérant les calculs statistiques complexes, la manipulation de dataframes volumineux et la génération de rapports.
-Moteur Statistique : Algorithmes d'échantillonnage développés sur mesure pour garantir la précision mathématique.
+🖥️ UI (User Interface) : Une interface moderne basée sur shinydashboard avec des menus intuitifs.
+⚙️ Server : Une logique backend robuste gérant les calculs statistiques complexes et la manipulation de données.
+🧬 Moteur Statistique : Algorithmes d'échantillonnage développés sur mesure pour garantir la précision mathématique.
 👥 Auteur
 Développé par SkanMetahni dans le cadre d'un projet d'expertise en sondage et statistiques.
 Ce projet est sous licence MIT - libre d'utilisation et de modification.
